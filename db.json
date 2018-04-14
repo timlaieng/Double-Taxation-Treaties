@@ -1,4 +1,4 @@
-{"country": "Portugal",
+[{"country": "Portugal",
 "agreementCountries":[
         {"country":"UK",
         "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/500344/uk-portugal-dta_-_in_force.pdf",
@@ -34,7 +34,7 @@
         "royalties":"the residence state",
         "students": "no, max 3k/year, 2 years",
         "pensions":	"income state",
-        "commission": "residence state, or income with max 12,5%"}]}
+        "commission": "residence state, or income with max 12,5%"}]
 },
 {"country": "Romania",
   "agreementCountries": [
@@ -149,4 +149,4 @@
               "commission": "residence state"}]}
 
 
-}]}
+]
